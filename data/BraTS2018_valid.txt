@@ -1,0 +1,4 @@
+D:\Datasets\BraTS2018\MICCAI_BraTS_2018_Data_Training\HGG\Brats18_TCIA05_396_1\Brats18_TCIA05_396_1_seg.nii
+D:\Datasets\BraTS2018\MICCAI_BraTS_2018_Data_Training\HGG\Brats18_TCIA05_396_1\Brats18_TCIA05_396_1_seg_randwarped2.nii
+D:\Datasets\BraTS2018\MICCAI_BraTS_2018_Data_Training\HGG\Brats18_TCIA05_396_1\Brats18_TCIA05_396_1_t1.nii
+D:\Datasets\BraTS2018\MICCAI_BraTS_2018_Data_Training\HGG\Brats18_TCIA05_396_1\Brats18_TCIA05_396_1_t2_randwarped2.nii

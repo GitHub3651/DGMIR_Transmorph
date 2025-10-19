@@ -2,6 +2,7 @@
 Official implementation for "DGMIR: Dual-Guided Multimodal Medical Image Registration based on Multi-view Augmentation and On-site Modality Removal" 
 
 https://papers.miccai.org/miccai-2025/paper/1691_paper.pdf
+https://link.springer.com/chapter/10.1007/978-3-032-04927-8_15
 
 ## Citation:
 

@@ -7,6 +7,7 @@ https://link.springer.com/chapter/10.1007/978-3-032-04927-8_15
 ## Citation:
 
 If you find this code is useful in your research, please consider to cite:
+
 @inproceedings{le2025dgmir,
   title={DGMIR: Dual-Guided Multimodal Medical Image Registration Based on Multi-view Augmentation and On-Site Modality Removal},
   author={Le, Gao and Shu, Yucheng and Qiao, Lihong and Yang, Lijian and Xiao, Bin and Li, Weisheng and Gao, Xinbo},
